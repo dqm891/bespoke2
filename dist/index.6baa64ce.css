@@ -1,0 +1,190 @@
+.scalable-cs-primary-logo {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.social-child, .social-inner, .social-item {
+  width: 24px;
+  height: 24px;
+  min-height: 24px;
+  position: relative;
+}
+
+.scalable-cs-primary-logo-parent, .social {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.social {
+  flex-direction: row;
+  gap: 12px;
+}
+
+.scalable-cs-primary-logo-parent {
+  box-sizing: border-box;
+  gap: var(--gap-25xl);
+  flex-direction: column;
+  width: 304px;
+  min-width: 304px;
+  height: 224px;
+  padding: 0 0 6px;
+}
+
+.contact {
+  min-width: 57px;
+  line-height: 120%;
+  display: inline-block;
+  position: relative;
+}
+
+.infocodestitchcom, .p {
+  margin: 0;
+}
+
+.body-body-container {
+  line-height: 150%;
+  position: relative;
+}
+
+.menu-items {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.address {
+  min-width: 60px;
+  line-height: 120%;
+  display: inline-block;
+  position: relative;
+}
+
+.avenue-street, .oak-harbor-wa {
+  margin: 0;
+}
+
+.body-body-container1 {
+  line-height: 150%;
+  position: relative;
+}
+
+.menu-items1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.opening-hours {
+  min-width: 108px;
+  line-height: 120%;
+  display: inline-block;
+  position: relative;
+}
+
+.closed-for-lunch, .tuesday-thursday-friday {
+  margin: 0;
+}
+
+.body-body-container2 {
+  line-height: 150%;
+  position: relative;
+}
+
+.body-body-medium-wrapper, .menu-items2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.body-body-medium-wrapper {
+  font-size: var(--sans-serif-body-body-small-size);
+}
+
+.menu-items2 {
+  gap: var(--gap-xl);
+}
+
+.content, .frame-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.content {
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: 88px;
+  width: 743px;
+  padding: 12px 0 0;
+}
+
+.frame-parent {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  width: 1280px;
+}
+
+.footer, .footer-inner {
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.footer-inner {
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--heading-bold-mini-size);
+  color: var(--neutral-50);
+  font-family: var(--sans-serif-body-body-small);
+  background-color: #1a1a1a;
+  align-self: stretch;
+  align-items: center;
+  max-width: 100%;
+  padding: 100px 20px;
+}
+
+.footer {
+  letter-spacing: normal;
+  background-color: #fff;
+  align-items: flex-start;
+  width: 100%;
+  line-height: normal;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1100px) {
+  .scalable-cs-primary-logo-parent {
+    flex: 1;
+  }
+
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (width <= 1025px) {
+  .content {
+    gap: var(--gap-25xl);
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .content, .scalable-cs-primary-logo-parent {
+    gap: var(--gap-3xl);
+  }
+}
+/*# sourceMappingURL=index.6baa64ce.css.map */

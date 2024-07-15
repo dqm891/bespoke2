@@ -1,0 +1,246 @@
+.we-are {
+  color: var(--main-dark);
+}
+.who-we-are-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 59px;
+  font-weight: 900;
+  font-family: inherit;
+}
+.who-we-are-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.learn-more1 {
+  text-decoration: underline;
+}
+.learn-more {
+  color: inherit;
+}
+.my-name-is-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-regular-size);
+  line-height: 150%;
+  color: var(--main-paragraph);
+}
+.section-title {
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-30xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-regular);
+}
+.icon {
+  align-self: stretch;
+  height: 413px;
+  border-radius: var(--br-394xl);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.leslie-alexander,
+.marketing-expert {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.marketing-expert {
+  font-size: var(--body-regular-size);
+  line-height: 150%;
+  color: var(--main-paragraph);
+}
+.leslie-alexander-parent,
+.members {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.leslie-alexander-parent {
+  align-self: stretch;
+  border-radius: var(--br-13xl);
+  background-color: var(--main-white-stitch);
+  padding: var(--padding-5xl);
+  gap: var(--gap-9xs);
+}
+.members {
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.social-icon {
+  width: 247px;
+  height: 79px;
+  position: absolute;
+  margin: 0 !important;
+  top: 311px;
+  left: 83px;
+}
+.social-media {
+  align-self: stretch;
+  height: 414px;
+  border-radius: 414px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 311px 0 var(--padding-5xl);
+  box-sizing: border-box;
+  position: relative;
+  background-image: url(./public/social-media@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.jenny-wilson,
+.uiux-designer {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.uiux-designer {
+  font-size: var(--body-regular-size);
+  line-height: 150%;
+  color: var(--main-white-stitch);
+}
+.jenny-wilson-parent,
+.social-media-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.jenny-wilson-parent {
+  align-self: stretch;
+  border-radius: var(--br-13xl);
+  background-color: var(--main-primary);
+  padding: var(--padding-5xl);
+  gap: var(--gap-9xs);
+}
+.social-media-parent {
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  color: var(--main-white);
+}
+.icon1 {
+  align-self: stretch;
+  height: 413px;
+  border-radius: var(--br-394xl);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.seo-expert,
+.wade-warren {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.seo-expert {
+  font-size: var(--body-regular-size);
+  line-height: 150%;
+  color: var(--main-paragraph);
+}
+.members1,
+.wade-warren-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wade-warren-parent {
+  align-self: stretch;
+  border-radius: var(--br-13xl);
+  background-color: var(--main-white-stitch);
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  gap: var(--gap-9xs);
+}
+.members1 {
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.images,
+.members1,
+.whoweare {
+  justify-content: flex-start;
+}
+.images {
+  width: 1280px;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  grid-template-columns: repeat(3, minmax(310px, 1fr));
+  text-align: center;
+  font-size: var(--tablet-h3-size);
+  color: var(--main-dark);
+  font-family: var(--body-regular);
+}
+.whoweare {
+  width: 100%;
+  position: relative;
+  background-color: var(--main-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-81xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-45xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1000px) {
+  .images {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(310px, 537px));
+  }
+}
+@media screen and (max-width: 975px) {
+  .who-we-are-container {
+    font-size: var(--font-size-20xl);
+    line-height: 47px;
+  }
+}
+@media screen and (max-width: 725px) {
+  .images {
+    grid-template-columns: minmax(310px, 1fr);
+  }
+  .whoweare {
+    gap: var(--gap-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .who-we-are-container {
+    font-size: var(--font-size-10xl);
+    line-height: 35px;
+  }
+  .jenny-wilson,
+  .leslie-alexander,
+  .wade-warren {
+    font-size: var(--body-regular-size);
+    line-height: 19px;
+  }
+  .whoweare {
+    gap: var(--gap-base);
+  }
+}
