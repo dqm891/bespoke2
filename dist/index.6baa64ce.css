@@ -124,6 +124,7 @@
 
 .content-and-menu {
   box-sizing: border-box;
+  color: #fff;
   justify-content: flex-start;
   gap: 88px;
   width: 743px;

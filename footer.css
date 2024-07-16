@@ -117,6 +117,7 @@
   box-sizing: border-box;
   gap: 88px;
   min-width: 743px;
+  color: white;
 }
 .frame-parent {
   width: 1280px;

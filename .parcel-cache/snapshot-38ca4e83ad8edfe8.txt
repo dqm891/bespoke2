@@ -25,7 +25,7 @@
 62C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\htmlnano133655472954506054 1
 64C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\is-extglob133655472957930292 1
 96C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133655321737096462 0
-45C:\Users\dqm89\Documents\GitHub\bespoke2\dist133656198064809081 1
+45C:\Users\dqm89\Documents\GitHub\bespoke2\dist133656200745849405 1
 83C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\lightningcss\node\ast.js.flow133655321749980611 0
 79C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\node-addon-api\napi-inl.h133655321763562946 0
 90C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\css-tree\cjs\syntax\function\var.cjs133655321874271504 0
@@ -62,7 +62,7 @@
 54C:\Users\dqm89\Documents\GitHub\bespoke2\public\footer133656138173925070 1
 127C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\matches.js133655321851812581 0
 109C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser.cjs133655321859181332 0
-51C:\Users\dqm89\Documents\GitHub\bespoke2\footer.css133655848620000000 0
+51C:\Users\dqm89\Documents\GitHub\bespoke2\footer.css133656200745511117 0
 95C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\.bin\node-gyp-build-optional-packages.cmd133655322008805965 0
 93C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133655321735497096 0
 85C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\svgo\plugins\convertPathData.js133655321825958122 0
@@ -3161,7 +3161,7 @@
 73C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\csso\cjs\syntax.cjs133655321800197455 0
 78C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\csso\cjs\clean\index.cjs133655321789342858 0
 72C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\csso\cjs\usage.cjs133655321802386402 0
-64C:\Users\dqm89\Documents\GitHub\bespoke2\dist\index.6baa64ce.css133656187136124838 0
+64C:\Users\dqm89\Documents\GitHub\bespoke2\dist\index.6baa64ce.css133656200745800864 0
 100C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133655321737000945 0
 64C:\Users\dqm89\Documents\GitHub\bespoke2\dist\index.437f671a.css133656117521381494 0
 120C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\TypeSelector.js133655321814414701 0
@@ -3910,7 +3910,7 @@
 120C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config133655472703545680 1
 85C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\caniuse-lite\data\regions\BO.js133655321828003245 0
 85C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\caniuse-lite\data\regions\BR.js133655321828649303 0
-68C:\Users\dqm89\Documents\GitHub\bespoke2\dist\index.6baa64ce.css.map133656187136372834 0
+68C:\Users\dqm89\Documents\GitHub\bespoke2\dist\index.6baa64ce.css.map133656200745834350 0
 68C:\Users\dqm89\Documents\GitHub\bespoke2\dist\image1@3x.62d6b8e0.png133656187135806589 0
 85C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\caniuse-lite\data\regions\BT.js133655321856133839 0
 104C:\Users\dqm89\Documents\GitHub\bespoke2\node_modules\caniuse-lite\data\features\wasm-reference-types.js133655322004938972 0
