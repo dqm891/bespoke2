@@ -5,6 +5,7 @@ body {
 
 :root {
   --body-regular: Roboto;
+  --font-poppins: Poppins;
   --sans-serif-body-body-small: Roboto;
   --body-regular-size: 16px;
   --tablet-h3-size: 20px;
@@ -16,6 +17,13 @@ body {
   --desktop-h1-size: 61px;
   --sans-serif-body-body-small-size: 15px;
   --heading-bold-mini-size: 16px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-7xl: 26px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
   --main-white: #fff;
   --main-white-stitch: #f7f7f7;
   --main-paragraph: #4e4b66;
@@ -28,6 +36,13 @@ body {
   --color-gainsboro-100: #e4e4e4;
   --color-royalblue: #004db4;
   --neutral-50: #fafbfc;
+  --color-black: #000;
+  --shades-dark-80: #484848;
+  --shades-dark-30: #bababa;
+  --color-gray-200: #fffc;
+  --color-gray-300: #fffc;
+  --color-dimgray: #4e4b66;
+  --color-darkslateblue: #00275b;
   --gap-45xl: 64px;
   --gap-13xl: 32px;
   --gap-base: 16px;
@@ -40,6 +55,7 @@ body {
   --gap-21xl: 40px;
   --gap-25xl: 44px;
   --gap-3xl: 22px;
+  --gap-5xs: 8px;
   --gap-29xl: 48px;
   --padding-81xl: 100px;
   --padding-xl: 20px;
@@ -61,6 +77,7 @@ body {
   --padding-37xl: 56px;
   --padding-29xl: 48px;
   --padding-3xs: 10px;
+  --padding-12xs: 1px;
   --br-13xl: 32px;
   --br-394xl: 413px;
   --br-base: 16px;

@@ -557,7 +557,7 @@
   font-size: inherit;
   font-weight: 600;
   font-family: var(--font-poppins);
-  text-align: left;
+  text-align: center;
 }
 .included {
   position: relative;

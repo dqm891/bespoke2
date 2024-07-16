@@ -6,8 +6,9 @@ body {
 :root {
   /* fonts */
   --body-regular: Roboto;
+  --font-poppins: Poppins;
     /* fonts footer */
-    --sans-serif-body-body-small: Roboto;
+  --sans-serif-body-body-small: Roboto;
 
   /* font sizes */
   --body-regular-size: 16px;
@@ -20,6 +21,13 @@ body {
   --desktop-h1-size: 61px;
   --sans-serif-body-body-small-size: 15px;
   --heading-bold-mini-size: 16px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-7xl: 26px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
 
   /* Colors */
   --main-white: #fff;
@@ -34,7 +42,16 @@ body {
   --color-gainsboro-100: #e4e4e4;
   --color-royalblue: #004db4;
     /* Colors footer */
-    --neutral-50: #fafbfc;
+  --neutral-50: #fafbfc;
+  --color-black: #000;
+  --shades-dark-80: #484848;
+  --shades-dark-30: #bababa;
+  --color-gray-200: #151515;
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --color-dimgray: #4e4b66;
+  --color-gray-200: rgba(255, 255, 255, 0.8);
+  --color-darkslateblue: #00275b;
+  --color-dimgray: #4e4b66;
 
   /* Gaps */
   --gap-45xl: 64px;
@@ -50,9 +67,11 @@ body {
   /* Gaps footer */
   --gap-25xl: 44px;
   --gap-3xl: 22px;
-
+  --gap-5xs: 8px;
+  --gap-29xl: 48px;
     /* Gaps Pricing */
-    --gap-29xl: 48px;
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;  
 
   /* Paddings */
   --padding-81xl: 100px;
@@ -72,11 +91,12 @@ body {
   --padding-61xl: 80px;
   --padding-12xl: 31px;
     /* Paddings Pricing*/
-    --padding-2xl-5: 21.5px;
-    --padding-37xl: 56px;
-    --padding-29xl: 48px;
-    --padding-3xs: 10px;
-  
+  --padding-2xl-5: 21.5px;
+  --padding-37xl: 56px;
+  --padding-29xl: 48px;
+  --padding-3xs: 10px;
+  --padding-12xs: 1px;
+  --padding-lg-5: 18.5px;  
 
   /* Border radiuses */
   --br-13xl: 32px;
@@ -87,5 +107,6 @@ body {
   --br-45xl: 64px;
   --br-81xl: 100px;
     /* Border radiuses */
-    --br-9xs: 4px;
+  --br-9xs: 4px;
+  --br-base: 16px;      
 }
