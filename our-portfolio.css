@@ -29,6 +29,7 @@
   line-height: 150%;
   display: inline-block;
   min-width: 81px;
+  color: white;
 }
 .seattle-wa-wrapper {
   border-radius: var(--br-5xs) var(--br-5xs) 0 0;
@@ -162,6 +163,7 @@
   line-height: 150%;
   display: inline-block;
   min-width: 112px;
+  color: white;
 }
 .oak-harbor-wa-wrapper {
   border-radius: var(--br-5xs) var(--br-5xs) 0 0;
@@ -298,6 +300,7 @@
   line-height: 150%;
   display: inline-block;
   min-width: 104px;
+  color: white;
 }
 .foster-city-ca-wrapper {
   border-radius: var(--br-5xs) var(--br-5xs) 0 0;
