@@ -41,6 +41,8 @@ body {
   --gap-xs: 12px;
   --gap-lg: 18px;
   --gap-21xl: 40px;
+    /* Gaps Pricing */
+    --gap-29xl: 48px;
 
   /* Paddings */
   --padding-81xl: 100px;
@@ -59,6 +61,12 @@ body {
   --padding-141xl: 160px;
   --padding-61xl: 80px;
   --padding-12xl: 31px;
+    /* Paddings Pricing*/
+    --padding-2xl-5: 21.5px;
+    --padding-37xl: 56px;
+    --padding-29xl: 48px;
+    --padding-3xs: 10px;
+  
 
   /* Border radiuses */
   --br-13xl: 32px;
@@ -68,4 +76,6 @@ body {
   --br-5xl: 24px;
   --br-45xl: 64px;
   --br-81xl: 100px;
+    /* Border radiuses */
+    --br-9xs: 4px;
 }

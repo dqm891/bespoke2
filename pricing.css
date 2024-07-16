@@ -131,6 +131,7 @@
   justify-content: center;
   padding: var(--padding-81xl) var(--padding-37xl) var(--padding-29xl) 55px;
   box-sizing: border-box;
+  padding: 50px;
 }
 .e-commerce {
   text-decoration: none;
@@ -340,6 +341,7 @@
   justify-content: center;
   padding: var(--padding-81xl) var(--padding-37xl) var(--padding-29xl);
   box-sizing: border-box;
+  padding: 50px;
 }
 .pages,
 .standard {
@@ -547,6 +549,7 @@
   justify-content: center;
   padding: var(--padding-81xl) var(--padding-37xl) var(--padding-29xl);
   box-sizing: border-box;
+  padding: 50px;
 }
 .logos-graphic {
   margin: 0;
