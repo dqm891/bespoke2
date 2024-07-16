@@ -6,6 +6,8 @@ body {
 :root {
   /* fonts */
   --body-regular: Roboto;
+    /* fonts footer */
+    --sans-serif-body-body-small: Roboto;
 
   /* font sizes */
   --body-regular-size: 16px;
@@ -16,6 +18,8 @@ body {
   --desktop-h3-size: 25px;
   --font-size-lg: 18px;
   --desktop-h1-size: 61px;
+  --sans-serif-body-body-small-size: 15px;
+  --heading-bold-mini-size: 16px;
 
   /* Colors */
   --main-white: #fff;
@@ -29,6 +33,8 @@ body {
   --shades-dark-10: #e8e8e8;
   --color-gainsboro-100: #e4e4e4;
   --color-royalblue: #004db4;
+    /* Colors footer */
+    --neutral-50: #fafbfc;
 
   /* Gaps */
   --gap-45xl: 64px;
@@ -41,6 +47,10 @@ body {
   --gap-xs: 12px;
   --gap-lg: 18px;
   --gap-21xl: 40px;
+  /* Gaps footer */
+  --gap-25xl: 44px;
+  --gap-3xl: 22px;
+
     /* Gaps Pricing */
     --gap-29xl: 48px;
 

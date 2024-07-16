@@ -1,9 +1,9 @@
 .scalable-cs-primary-logo {
   object-fit: cover;
-  flex: 1;
+  flex-shrink: 0;
   align-self: stretch;
   max-width: 100%;
-  max-height: 100%;
+  height: 195px;
   position: relative;
   overflow: hidden;
 }
@@ -33,7 +33,7 @@
   width: 304px;
   min-width: 304px;
   height: 224px;
-  padding: 0 0 6px;
+  padding: 0;
 }
 
 .contact {
@@ -115,19 +115,20 @@
   gap: var(--gap-xl);
 }
 
-.content, .frame-parent {
+.content-and-menu, .frame-parent {
   flex-direction: row;
   align-items: flex-start;
   max-width: 100%;
   display: flex;
 }
 
-.content {
+.content-and-menu {
   box-sizing: border-box;
   justify-content: flex-start;
   gap: 88px;
   width: 743px;
-  padding: 12px 0 0;
+  min-width: 743px;
+  padding: 33px 0 0;
 }
 
 .frame-parent {
@@ -166,7 +167,7 @@
 }
 
 @media screen and (width <= 1100px) {
-  .scalable-cs-primary-logo-parent {
+  .content-and-menu, .scalable-cs-primary-logo-parent {
     flex: 1;
   }
 
@@ -176,14 +177,15 @@
 }
 
 @media screen and (width <= 1025px) {
-  .content {
+  .content-and-menu {
     gap: var(--gap-25xl);
     flex-wrap: wrap;
+    min-width: 100%;
   }
 }
 
 @media screen and (width <= 450px) {
-  .content, .scalable-cs-primary-logo-parent {
+  .content-and-menu, .scalable-cs-primary-logo-parent {
     gap: var(--gap-3xl);
   }
 }

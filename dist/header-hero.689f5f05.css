@@ -5,6 +5,7 @@ body {
 
 :root {
   --body-regular: Roboto;
+  --sans-serif-body-body-small: Roboto;
   --body-regular-size: 16px;
   --tablet-h3-size: 20px;
   --font-size-30xl: 49px;
@@ -13,6 +14,8 @@ body {
   --desktop-h3-size: 25px;
   --font-size-lg: 18px;
   --desktop-h1-size: 61px;
+  --sans-serif-body-body-small-size: 15px;
+  --heading-bold-mini-size: 16px;
   --main-white: #fff;
   --main-white-stitch: #f7f7f7;
   --main-paragraph: #4e4b66;
@@ -24,6 +27,7 @@ body {
   --shades-dark-10: #e8e8e8;
   --color-gainsboro-100: #e4e4e4;
   --color-royalblue: #004db4;
+  --neutral-50: #fafbfc;
   --gap-45xl: 64px;
   --gap-13xl: 32px;
   --gap-base: 16px;
@@ -34,6 +38,8 @@ body {
   --gap-xs: 12px;
   --gap-lg: 18px;
   --gap-21xl: 40px;
+  --gap-25xl: 44px;
+  --gap-3xl: 22px;
   --gap-29xl: 48px;
   --padding-81xl: 100px;
   --padding-xl: 20px;
